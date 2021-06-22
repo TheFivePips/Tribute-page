@@ -1,0 +1,25 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+main {
+    text-align: center;
+    background-color: rgb(169, 162, 175);
+}
+.life-story {
+    text-align: left;
+}
+#tribute-info {
+    text-transform: capitalize;
+    text-align:left;
+    margin-left:40%;
+}
+#Title {
+    background-color: rgb(240, 233, 233);
+}
+#img-caption {
+    text-align: center;
+   
+}
